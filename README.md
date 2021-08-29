@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DemianKoro
 - 👀 I’m interested in grow up in the developer's world 
 - 🌱 I’m currently learning for Fullstack developer 
-- 💞️ I’m looking to collaborate on anything that I could help
 - 📫 How to reach me ...
 Send me a email to demian.koro@gmail.com 
 
